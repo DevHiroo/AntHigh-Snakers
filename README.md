@@ -1,10 +1,7 @@
 # AntHigh-Snakers
 
-<p>Projeto pensado para pratica de logica de programção e conhecimeto das seguintes liguagens:
+>Um projeto de aprendizado prático para entender a lógica de programação e ganhar experiência com linguagens web como HTML, CSS, JavaScript, Node.js e MySQL.
 
-  -JavaScrpit
-  -ReactJs
-  -NodeJS 
+## Sobre
 
-Afim de testar meus conhecimentos nessas linguagens e praticar elas. 
-  </p>
+Este projeto tem como objetivo fornecer uma plataforma de aprendizado prático (hands-on) através do desenvolvimento de uma loja de tênis virtual. O foco é ajudar os participantes a entender a lógica de programação e a ganhar experiência com linguagens web essenciais. Ao desenvolver este projeto, os participantes irão aprender e aplicar conhecimentos em HTML, CSS, JavaScript, Node.js e MySQL, simulando um ambiente de trabalho real.
